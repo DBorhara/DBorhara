@@ -4,7 +4,7 @@
 
 I am software engineer with a dedicated work ethic and proven leadership qualities obtained from years of working in high level government and nonprofit management. I helped engage with over 1.2 million individuals as part of a team to ensure proper governmental services were being distributed at a municipal level. I am passionate about professional growth and coding, with a desire to join and support a highly functional development team. I am also excited to learn about problem solving with efficient solutions, and growing into a leadership position.
 
-👀 View my portfolio here: [Portfolio](https://depakborhara.dev/)
+👀 View my portfolio here: [Portfolio]([https://depakborhara.dev/](https://portfolio-dborhara.vercel.app/))
 
 📝 Check my resume out here: [Depak's Resume](https://docs.google.com/document/d/1Yrot6oZnNa3Hd4SSMJ47Sh65o3ZT9KOhOwPQl3N4rts/edit?usp=sharing)
 
