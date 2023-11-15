@@ -2,7 +2,7 @@
 
 # Welcome to My Online Home Away from Home
 
-I am software engineer with a dedicated work ethic and proven leadership qualities obtained from years of working in high level government and nonprofit management. I helped engage with over 1.2 million individuals as part of a team to ensure proper governmental services were being distributed at a municipal level. I am passionate about professional growth and coding, with a desire to join and support a highly functional development team. I am also excited to learn about problem solving with efficient solutions, and growing into a leadership position.
+I am n experienced Software Engineer with a strong foundation in both front-end and back-end development, proficient in a range of languages including JavaScript (ES6), TypeScript, Ruby, and Go.  I have taught college courses on full-stack web development, developed large-scale consumer platforms, and provided consultancy on full-stack web applications. I also enjoy building things to make life easier. My current project are a HR Platform in React, and a command line tool to help developer workflows being built in Rust.
 
 👀 View my portfolio here: [Portfolio](https://portfolio-dborhara.vercel.app/)
 
