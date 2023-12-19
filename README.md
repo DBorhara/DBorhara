@@ -6,7 +6,7 @@ I am n experienced Software Engineer with a strong foundation in both front-end 
 
 👀 View my portfolio here: [Portfolio](https://portfolio-dborhara.vercel.app/)
 
-📝 Check my resume out here: [Depak's Resume](https://docs.google.com/document/d/1Yrot6oZnNa3Hd4SSMJ47Sh65o3ZT9KOhOwPQl3N4rts/edit?usp=sharing)
+📝 Check my resume out here: [Depak's Resume](https://www.overleaf.com/read/kzvxsntcyhct#34b731)
 
 💬 Message me here: [Linkedin](https://www.linkedin.com/in/depakborhara/)
 
