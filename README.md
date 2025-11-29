@@ -1,35 +1,55 @@
-<img src="https://media3.giphy.com/media/ggtpYV17RP9lTbc542/giphy.gif?cid=ecf05e47t46w6s0zipyci2u6swj68dm2r6zwtvu7dmre049w&rid=giphy.gif&ct=g" width="200" height="200" />
+# 🚀 Welcome to My Developer Space
 
-# Welcome to My Online Home Away from Home
+<img src="https://i.chzbgr.com/full/7712992512/h50923CC0/my-dating-profile-almost-done" width="200" height="200" />
 
-I am n experienced Software Engineer with a strong foundation in both front-end and back-end development, proficient in a range of languages including JavaScript (ES6), TypeScript, Ruby, and Go.  I have taught college courses on full-stack web development, developed large-scale consumer platforms, and provided consultancy on full-stack web applications. I also enjoy building things to make life easier. My current project are a HR Platform in React, and a command line tool to help developer workflows being built in Rust.
+## Hi, I'm **Depak Borhara** 👋  
+**Software Engineer → Computer Science Student (Rutgers–New Brunswick)**  
+**B.S. Computer Science • Minor in Mathematics**
 
-👀 View my portfolio here: [Portfolio](https://portfolio-dborhara.vercel.app/)
+I'm a former full-stack software engineer who transitioned back to school to deepen my understanding of computer science fundamentals — algorithms, data structures, systems, and the mathematics that power them.  
 
-📝 Check my resume out here: [Depak's Resume](https://www.overleaf.com/read/kzvxsntcyhct#34b731)
+I bring several years of engineering experience building full-stack applications, teaching college web development, and delivering scalable software solutions. I'm now combining that industry experience with rigorous CS theory as I pursue a **Software Engineering Internship** for Summer 2026.
 
-💬 Message me here: [Linkedin](https://www.linkedin.com/in/depakborhara/)
+---
 
-📫 Reach me via email: [depakborhara@gmail.com](mailto:depakborhara@gmail.com)
+## 💻 Technical Background
 
-📲 Call Me here: (917) 547-1702
+- **Languages:** JavaScript (ES6+), TypeScript, Java, SQL  
+- **Front-End:** React, Next.js, Tailwind, Redux  
+- **Back-End:** Node.js, Express, REST APIs  
+- **Systems & Tools:** Git, Docker, Linux, Neovim, tmux, WezTerm  
+- **Academic Skills:** Data Structures, Algorithms, Discrete Math, Linear Algebra, Calculus  
+- **Currently Learning:** DSA, The intersection of Computer Science and Math
 
+---
+
+## 🔭 Current TODO:
+  
+- **University Coursework Projects** – Java DSA (BSTs, heaps, LLs), algorithm analysis, math-heavy CS work  
+- **Custom Dev Environment** – Integrating WezTerm + Neovim + Zsh + tmux into a unified workflow
+
+---
+
+## 📁 Check Out My Work
+
+- 🌐 **Portfolio:** https://portfolio-dborhara.vercel.app/  
+- 📄 **Resume:** https://www.overleaf.com/read/kzvxsntcyhct#34b731  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/depakborhara/  
+- 📬 **Email:** depakborhara@gmail.com  
+- 📱 **Phone:** (917) 547-1702  
+
+---
+
+## 📊 GitHub Stats
 
 ![Depak's github stats](https://github-readme-stats.vercel.app/api?username=DBorhara&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DBorhara&layout=compact)](https://github.com/DBorhara/github-readme-stats)
 
-<!--
-**DBorhara/DBorhara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## ✨ About This Repo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This GitHub profile represents my ongoing journey:  
+a blend of **software engineering experience**, **academic growth**, and **a passion for building tools** that make life easier.
+
